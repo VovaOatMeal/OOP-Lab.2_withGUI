@@ -18,3 +18,6 @@ Lab.2 with GUI
 ![image](https://user-images.githubusercontent.com/80198822/114918994-68df1000-9e30-11eb-8b13-725ec6b065f5.png)
 
 ![image](https://user-images.githubusercontent.com/80198822/114919029-71374b00-9e30-11eb-83be-05c5e76ddfa7.png)
+
+Таблица после редактирования строки №2:
+![image](https://user-images.githubusercontent.com/80198822/114979185-1551de00-9e93-11eb-8076-2f4b7c3cdfed.png)
